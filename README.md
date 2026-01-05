@@ -1,5 +1,8 @@
-## Hi there 👋
+<hr/>
 
+## Chukwudiogo Chukwuma | Junior Data Analyst
+Aspiring Data Analyst currently training in data analysis with hands-on practice using Excel, SQL, Power BI, and Python. Experienced in cleaning messy datasets, performing exploratory analysis, and creating simple dashboards. Actively seeking an entry-level data analyst internship to apply analytical thinking and grow industry experience.
+Connect with me on [LinkedIn](in/chukwudiogo-chukwuma-072a1b30b)
 <!--
 **Winnie-tech01/Winnie-tech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
